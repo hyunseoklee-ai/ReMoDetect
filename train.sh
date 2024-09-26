@@ -1,0 +1,1 @@
+python scripts/train.py --model OpenAssistant/reward-model-deberta-v3-large-v2 --device cuda --device_old cuda --epochs 1 --batchsize 1 --l2_ratio 0.01 --lr 2e-5 --lambdas 0.35_1_0.35 --output trained_model
