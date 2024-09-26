@@ -64,3 +64,14 @@ Official PyTorch implementation of "ReMoDetect: Reward Models Recognize Aligned 
 
 - **CPU:** Intel(R) Xeon(R) Gold 6426Y CPU @ 2.50GHz
 - **GPU:** NVIDIA A6000 48GB -->
+
+
+## Citation
+```bibtex
+@inproceedings{lee2024remodetect,
+  title={ReMoDetect: Reward Models Recognize Aligned LLM's Generations},
+  author={Lee, Hyunseok and Tack, Jihoon and Shin, Jinwoo},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2024}
+}
+```
